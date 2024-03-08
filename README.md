@@ -16,3 +16,17 @@ Simply clone my Github repository and upload your files into the 'Word Files' fo
 
 This script also works for both .doc and .docx extensions.
 
+# Libraries
+
+You will need 2 libraries pywin32 and comtypes
+
+You can import them by these lines of code:
+
+```
+pip install comtypes
+
+pip install pywin32
+```
+![image](https://github.com/Emin-35/Word2PDF/assets/77839861/7ac7e647-0977-49e7-88a0-1b9fcf29a01e)
+
+![image](https://github.com/Emin-35/Word2PDF/assets/77839861/33d86985-06ab-4e26-bb89-0a793b3e9244)
